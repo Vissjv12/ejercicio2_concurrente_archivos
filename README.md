@@ -1,4 +1,7 @@
-
+Autor: Jordy Viscaino
+Nrc: 36880
+Aplicaciones distribuidas
+--------------------------------------------------------
 ## Carga concurrente de archivos escolares
 
 Aqui se simula a cuatro estudiantes que cargan sus tareas a una plataforma escolar. Usando `asyncio` se hace que las cargas continuen concurrentemente hasta dar una respuesta para el programa.
